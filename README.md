@@ -21,13 +21,6 @@ The icons referenced in this repository are hosted externally and are subject to
 
 Please refer to the linked repositories for full details.
 
-### Attribution
-
-- **Community Icons:** Sourced from the Kubernetes community repositories and used unmodified.  
-- **Official Kubernetes Logo:** Sourced from the official Kubernetes repository maintained by the Linux Foundation and used as provided.
-
-Please refer to the linked Apache License for full details.
-
 ## Trademarks and Branding
 
 The Kubernetes logo is a registered trademark of The Linux Foundation. This repository is an independent project and is **not** officially affiliated with the organization. Use of the Kubernetes logos and icons is intended solely for illustrative and educational purposes. For more information, please refer to the [The Linux Foundation's Trademark Usage Guidelines](https://www.linuxfoundation.org/legal/trademark-usage).
