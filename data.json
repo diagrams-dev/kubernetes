@@ -6,22 +6,22 @@
       "resources": [
         {
           "label": "Cluster",
-          "icon": "kubernetes/kubernetes/master/logo/logo_with_border.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/kubernetes/master/logo/logo_with_border.svg",
           "description": "Kubernetes Cluster"
         },
         {
           "label": "Node",
-          "icon": "kubernetes/community/master/icons/svg/infrastructure_components/unlabeled/node.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/infrastructure_components/unlabeled/node.svg",
           "description": "Worker Node"
         },
         {
           "label": "etcd",
-          "icon": "kubernetes/community/master/icons/svg/infrastructure_components/unlabeled/etcd.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/infrastructure_components/unlabeled/etcd.svg",
           "description": "key-value store"
         },
         {
           "label": "Control plane",
-          "icon": "kubernetes/community/master/icons/svg/infrastructure_components/unlabeled/control-plane.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/infrastructure_components/unlabeled/control-plane.svg",
           "description": "Control plane"
         }
       ]
@@ -32,32 +32,32 @@
       "resources": [
         {
           "label": "Pod",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/pod.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/pod.svg",
           "description": "Containers"
         },
         {
           "label": "Deployment",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/deploy.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/deploy.svg",
           "description": "Replica Mgmt"
         },
         {
           "label": "Stateful Set",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/sts.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/sts.svg",
           "description": "Stateful Apps"
         },
         {
           "label": "Daemon Set",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/ds.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/ds.svg",
           "description": "Node Pods"
         },
         {
           "label": "Job",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/job.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/job.svg",
           "description": "Batch Tasks"
         },
         {
           "label": "Cron Job",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/cronjob.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/cronjob.svg",
           "description": "Scheduled Tasks"
         }
       ]
@@ -68,17 +68,17 @@
       "resources": [
         {
           "label": "Service",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/svc.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/svc.svg",
           "description": "Service Discovery"
         },
         {
           "label": "Ingress",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/ing.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/ing.svg",
           "description": "Traffic Mgmt"
         },
         {
           "label": "Network Policy",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/netpol.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/netpol.svg",
           "description": "Network Sec"
         }
       ]
@@ -89,12 +89,12 @@
       "resources": [
         {
           "label": "Persistent Volume",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/pv.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/pv.svg",
           "description": "Storage Pool"
         },
         {
           "label": "Persistent Volume Claim",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/pvc.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/pvc.svg",
           "description": "Storage Request"
         }
       ]
@@ -105,12 +105,12 @@
       "resources": [
         {
           "label": "ConfigMap",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/cm.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/cm.svg",
           "description": "Settings"
         },
         {
           "label": "Secret",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/secret.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/secret.svg",
           "description": "Sensitive Data"
         }
       ]
@@ -121,17 +121,17 @@
       "resources": [
         {
           "label": "Namespace",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/ns.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/ns.svg",
           "description": "Resource Group"
         },
         {
           "label": "Resource Quota",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/quota.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/quota.svg",
           "description": "Limits"
         },
         {
           "label": "CRD",
-          "icon": "kubernetes/community/master/icons/svg/resources/unlabeled/crd.svg",
+          "icon": "https://cdn.statically.io/gh/kubernetes/community/master/icons/svg/resources/unlabeled/crd.svg",
           "description": "Extend API"
         }
       ]
